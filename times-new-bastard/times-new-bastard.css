@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Times New Bastard';
+    src: url('TimesNewBastard-RegularWeb.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Times New Bastard', serif;
+}
